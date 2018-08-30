@@ -1,5 +1,5 @@
 /*********************************************************************************
- *  OKVIS - Open Keyframe-based Visual-Inertial SLAM
+ *  OKVIS - Open Keyframe-based Visual-Inertial SLAM.
  *  Copyright (c) 2015, Autonomous Systems Lab / ETH Zurich
  *
  *  Redistribution and use in source and binary forms, with or without
